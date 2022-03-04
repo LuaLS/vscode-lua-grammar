@@ -1,0 +1,19 @@
+{
+    "name": "lua-grammar",
+    "displayName": "lua-grammar",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "grammars": [{
+            "language": "lua",
+            "scopeName": "source.lua",
+            "path": "./syntaxes/lua.tmLanguage.json"
+        }]
+    }
+}
