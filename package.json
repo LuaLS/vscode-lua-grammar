@@ -3,6 +3,8 @@
     "displayName": "lua-grammar",
     "description": "",
     "version": "0.0.1",
+    "publisher": "sumneko",
+    "repository": "https://github.com/sumneko/lua.tmbundle",
     "engines": {
         "vscode": "^1.65.0"
     },
