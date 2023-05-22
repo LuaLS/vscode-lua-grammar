@@ -2,7 +2,7 @@
 	"name": "lua-grammar",
 	"displayName": "lua-grammar",
 	"description": "",
-	"version": "0.0.10",
+	"version": "0.0.11",
 	"publisher": "sumneko",
 	"repository": "https://github.com/sumneko/lua.tmbundle",
 	"engines": {
